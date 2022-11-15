@@ -87,3 +87,24 @@ sketch
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/react,visualstudiocode,macos,yarn
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.env
+.env.*
+!.env.example
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
