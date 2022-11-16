@@ -1,6 +1,9 @@
 {
-    "recommendations": [
-        "tabnine.tabnine-vscode",
-        "dsznajder.es7-react-js-snippets"
-    ]
+  "recommendations": [
+    "tabnine.tabnine-vscode",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "dsznajder.es7-react-js-snippets"
+  ]
 }
